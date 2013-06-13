@@ -1,14 +1,14 @@
 no-more-cookies
 ===============
 
-An aproach to build an API to been consumed by any client.
+An example to build an API to be consumed by any client, without cookies.
 
-# API provider: 
+## API provider: 
 * NodeJS
 
-# API Consummers:
-
+## API Consumers:
 * Browser with JavaScript
 * Android
-* Server consummer NodeJS
+* Server consumer NodeJS
+
 
